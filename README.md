@@ -1,0 +1,2 @@
+- Evyatar Haim - Pokedex website
+- CodeSandbox url - https://codesandbox.io/s/github/GuyAvraham/Pokedex-Task/tree/evyatar
